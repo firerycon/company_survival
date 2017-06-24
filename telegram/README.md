@@ -1,5 +1,6 @@
-#echo.py 
-echo.py is the main file in this chatbot. The basic function in this file is echo what user say in the dialog box.
+# echo.py 
+
+echo.py is the main file in this chatbot.</br> The basic function in this file is echo what user say in the dialog box.</br>
 There are few exceptions here.
 1. /start: chat bot will echo '您好，歡迎使用公司存活預測系統！' to user.
 2. /help: chat bot will echo '請點擊右下角的斜線符號來下指令' to user.
