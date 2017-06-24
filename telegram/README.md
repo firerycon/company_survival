@@ -9,3 +9,9 @@ There are few exceptions here.
 5. "survival" with correct parameter after: echo.py will call callrscript.py to run the predict code and give the result to user.
 6. "survival" with wrong parameter after: echo.py will repeat what user said.
 7. "survival" with correct parameter after and only type wrong stack parameter: echo.py will echo "股份有限公司請填是或否"
+
+<b> callrscript.py </b></br>
+In callrscript.py, the code will call R compiler to run an Rscript</br>
+
+<b> 20170612.R </b></br>
+A R to run linear regression for predict.</br>
